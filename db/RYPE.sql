@@ -479,57 +479,6 @@ CREATE TABLE invoice (
 
 );
 
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (1, '2022-12-06', 1, 1, 477.7);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (2, '2022-12-06', 2, 2, 207.05);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (3, '2022-12-06', 3, 3, 296.02);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (4, '2022-12-06', 4, 4, 447.45);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (5, '2022-12-06', 5, 5, 324.88);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (6, '2022-12-06', 6, 6, 237.56);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (7, '2022-12-06', 7, 7, 284.41);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (8, '2022-12-06', 8, 8, 148.61);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (9, '2022-12-06', 9, 9, 347.48);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (10, '2022-12-06', 10, 10, 319.59);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (11, '2022-12-06', 11, 1, 411.61);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (12, '2022-12-06', 12, 2, 325.78);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (13, '2022-12-06', 13, 3, 379.52);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (14, '2022-12-06', 14, 4, 378.67);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (15, '2022-12-06', 15, 5, 346.35);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (16, '2022-12-06', 16, 6, 316.69);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (17, '2022-12-06', 17, 7, 285.06);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (18, '2022-12-06', 18, 8, 389.5);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (19, '2022-12-06', 19, 9, 255.93);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (20, '2022-12-06', 20, 10, 322.43);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (21, '2022-12-06', 21, 1, 199.74);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (22, '2022-12-06', 22, 2, 367.75);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (23, '2022-12-06', 23, 3, 479.81);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (24, '2022-12-06', 24, 4, 442.63);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (25, '2022-12-06', 25, 5, 468.07);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (26, '2022-12-06', 26, 6, 221.98);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (27, '2022-12-06', 27, 7, 379.17);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (28, '2022-12-06', 28, 8, 152.39);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (29, '2022-12-06', 29, 9, 186.81);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (30, '2022-12-06', 30, 10, 237.89);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (31, '2022-12-06', 31, 1, 130.42);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (32, '2022-12-06', 32, 2, 349.69);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (33, '2022-12-06', 33, 3, 321.94);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (34, '2022-12-06', 34, 4, 279.02);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (35, '2022-12-06', 35, 5, 455.96);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (36, '2022-12-06', 36, 6, 172.17);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (37, '2022-12-06', 37, 7, 285.35);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (38, '2022-12-06', 38, 8, 450.8);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (39, '2022-12-06', 39, 9, 486.84);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (40, '2022-12-06', 40, 10, 390.72);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (41, '2022-12-06', 41, 1, 292.68);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (42, '2022-12-06', 42, 2, 179.55);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (43, '2022-12-06', 43, 3, 433.56);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (44, '2022-12-06', 44, 4, 447.6);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (45, '2022-12-06', 45, 5, 220.81);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (46, '2022-12-06', 46, 6, 152.53);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (47, '2022-12-06', 47, 7, 280.65);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (48, '2022-12-06', 48, 8, 184.09);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (49, '2022-12-06', 49, 9, 176.0);
-insert into invoice (invoiceid, invoicedate, storeid, farmid, total) values (50, '2022-12-06', 50, 10, 272.54);
-
 
 CREATE TABLE shoppingListItem (
     customerID integer,
