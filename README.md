@@ -4,6 +4,11 @@ This repo contains a boilerplate setup for spinning up 2 docker containers:
 1. A MySQL 8 container for obvious reasons
 1. A Python Flask container to implement a REST API
 
+## Connecting to ngrok and AppSmith
+**Important** - you need nGrok installed
+1. In terminal ./ngrok http 8001 
+1. Copy foward link to AppSmith and edit forward URL
+
 ## How to setup and start the containers
 **Important** - you need Docker Desktop installed
 
