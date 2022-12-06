@@ -1,5 +1,4 @@
 CREATE DATABASE rype;
--- CREATE USER 'webapp'@'%' IDENTIFIED by 'abc123';
 GRANT ALL PRIVILEGES ON rype.* to 'webapp'@'%';
 FLUSH PRIVILEGES;
 
