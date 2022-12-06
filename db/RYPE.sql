@@ -221,10 +221,10 @@ CREATE TABLE crop (
     FOREIGN KEY (farmID) REFERENCES farm (farmID)    
 );
 
-insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (1, 1, 'Apple', 3.32, '2022-11-30', 8);
-insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (2, 1, 'Grape', 7.15, '2021-12-14', 80);
+insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (1, 1, 'Dragon Fruit', 3.32, '2022-11-30', 8);
+insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (2, 1, 'Dragon Fruit', 7.15, '2021-12-14', 80);
 insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (3, 1, 'Grape', 5.23, '2022-01-01', 9);
-insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (4, 1, 'Apple', 5.22, '2022-07-26', 10);
+insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (4, 1, 'Dragon Fruit', 5.22, '2022-07-26', 10);
 insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (5, 1, 'Apple', 7.17, '2022-04-08', 42);
 insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (6, 1, 'Dragon Fruit', 6.42, '2022-04-21', 67);
 insert into crop (produceid, farmid, produce_name, wholesale_price, act_harvest_date, quantity) values (7, 1, 'Grape', 5.16, '2022-09-10', 96);
