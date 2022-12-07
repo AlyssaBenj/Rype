@@ -1,3 +1,9 @@
+# Project Video Link:
+
+https://youtu.be/ihgLIlPR_Sc
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 # MySQL + Flask Boilerplate Project
 
 This repo contains a boilerplate setup for spinning up 2 docker containers: 
